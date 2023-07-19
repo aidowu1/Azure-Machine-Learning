@@ -4,6 +4,9 @@ git-credential-manager/
 # Ignore Ubuntu infa
 ubuntu/
 
+# Ignore Pycharm infa
+.idea/
+
 # Ignore data files
 *.csv
 *.txt
