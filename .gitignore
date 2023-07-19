@@ -1,0 +1,9 @@
+# Ignore Git infa
+git-credential-manager/  
+
+# Ignore Ubuntu infa
+ubuntu/
+
+# Ignore data files
+*.csv
+*.txt
